@@ -1,0 +1,16 @@
+Deadlines
+Project Group signup - Fri Week 2
+
+
+
+Version Control
+
+a repository tracks changes of a set of files over time (github)
+
+Working Locally
+
+- clone repo to local drive (only need to do for the first time)
+- make changes
+- once changes are complete used add to initiate staging process
+- once staging is complete, uniformally update the history using commit (tracks who what and when something changed) STILL ONLY LOCAL
+- "push" changes to update cloud files
